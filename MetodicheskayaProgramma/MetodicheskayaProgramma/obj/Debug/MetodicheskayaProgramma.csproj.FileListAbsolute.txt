@@ -1,0 +1,16 @@
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\bin\Debug\MetodicheskayaProgramma.exe.config
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\bin\Debug\MetodicheskayaProgramma.exe
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\bin\Debug\MetodicheskayaProgramma.pdb
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.First.resources
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.Properties.Resources.resources
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.Second.resources
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.exe
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.pdb
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.Result.resources
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.Third1.resources
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.Third2.resources
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.Third4.resources
+C:\Users\Даниил\Desktop\UP\MetodicheskayaProgramma\MetodicheskayaProgramma\obj\Debug\MetodicheskayaProgramma.Third3.resources
